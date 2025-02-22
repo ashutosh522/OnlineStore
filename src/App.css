@@ -1,0 +1,23 @@
+
+.cart-item img {
+  max-width: 100px;
+  height: auto;
+}
+
+.quantity-input {
+  width: 50px;
+}
+
+.cart-summary {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+
+.hero-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url('/api/placeholder/1920/1080') center/cover no-repeat;
+/* background-image: url(); */
+  height: 100vh;
+  color: white;
+}
